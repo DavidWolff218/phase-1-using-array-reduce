@@ -5,7 +5,7 @@
 - Learn how the `reduce()` method works
 - Demonstrate using `reduce()` with a primitive return value
 - Demonstrate using `reduce()` with an object as the return value
-
+--------
 ## Introduction
 
 In the world of programming, we often work with lists. Sometimes we want to find
